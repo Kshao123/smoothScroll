@@ -1,0 +1,26 @@
+{
+  "name": "smooth-scroll",
+  "version": "1.0.0",
+  "description": "平滑滚动",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kshao123/smoothScroll.git"
+  },
+  "keywords": [
+    "滚动",
+    "平滑",
+    "平滑滚动",
+    "顺滑滚动",
+    "ios滚动"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kshao123/smoothScroll/issues"
+  },
+  "homepage": "https://github.com/Kshao123/smoothScroll#readme"
+}
