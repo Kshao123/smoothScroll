@@ -18,6 +18,16 @@ yarn add smooth-scroll-js
 https://cdn.jsdelivr.net/npm/smooth-scroll-js@1.0.0
 ```
 
+## Usage
+
+```javascript
+import SmoothScroll from 'smooth-scroll-js'
+
+SmoothScroll(options)
+
+SmoothScroll.destroy();
+```
+
 ## Custom options
 
 ### Defaults:
