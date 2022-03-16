@@ -2,26 +2,26 @@
 
 
 
-![publish](https://github.com/Kshao123/smoothScroll/workflows/publish/badge.svg?event=push) [![](https://flat.badgen.net/npm/v/smoothScroll.js?icon=npm)](https://www.npmjs.com/package/smoothScroll.js)  [![NPM downloads](http://img.shields.io/npm/dm/smoothScroll.js.svg?style=flat-square)](http://npmjs.com/smoothScroll.js)
+![publish](https://github.com/Kshao123/smoothScroll/workflows/publish/badge.svg?event=push) [![](https://flat.badgen.net/npm/v/smooth-scrolling.js?icon=npm)](https://www.npmjs.com/package/smooth-scrolling.js)  [![NPM downloads](http://img.shields.io/npm/dm/smooth-scrolling.js.svg?style=flat-square)](http://npmjs.com/smooth-scrolling.js)
 
 
 ## 📦 Install
 
 ```bash
-npm install smoothScroll.js
+npm install smooth-scrolling.js
 ```
 
 ```bash
-yarn add smoothScroll.js
+yarn add smooth-scrolling.js
 ```
 ```bash
-https://cdn.jsdelivr.net/npm/smoothScroll.js@1.0.0
+https://cdn.jsdelivr.net/npm/smooth-scrolling.js@1.0.0
 ```
 
 ## Usage
 
 ```javascript
-import SmoothScroll from 'smoothScroll.js'
+import SmoothScroll from 'smooth-scrolling.js'
 
 SmoothScroll(options)
 
