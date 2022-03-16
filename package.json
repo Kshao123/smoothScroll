@@ -1,5 +1,5 @@
 {
-  "name": "smooth-scroll",
+  "name": "smooth-scroll.js",
   "version": "1.0.0",
   "description": "平滑滚动",
   "main": "index.js",
@@ -15,7 +15,8 @@
     "平滑",
     "平滑滚动",
     "顺滑滚动",
-    "ios滚动"
+    "ios滚动",
+    "惯性滚动"
   ],
   "author": "",
   "license": "MIT",
